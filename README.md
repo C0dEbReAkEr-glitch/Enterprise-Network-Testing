@@ -1,6 +1,9 @@
 # Advanced Enterprise Network Testing Framework
 
 A professional Python tool for comprehensive web application and network infrastructure testing, including network scanning and load testing capabilities.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+
 
 ## Overview
 
@@ -204,7 +207,7 @@ Raw data CSV includes per-request details:
 
 ## License
 
-MIT License - See LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
